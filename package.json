@@ -1,0 +1,16 @@
+{
+  "name": "manualeshmv",
+  "version": "1.0.0",
+  "description": "Portal de manuales SaaS HMV Soluciones",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  },
+  "author": "HMV Soluciones",
+  "license": "ISC",
+  "dependencies": {
+    "vitepress": "^1.2.3"
+  }
+}
