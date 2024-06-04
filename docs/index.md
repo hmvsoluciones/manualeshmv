@@ -6,7 +6,7 @@ hero:
   text: 
   tagline: Accesos a manuales de aplicativos HMV Soluciones y contacto con Mesa de Ayuda
   image:
-    src: /assets/img/logoa.png
+    src: /logoa.png
     alt: HMV Soluciones
   actions:
     - theme: brand
