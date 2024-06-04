@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,a1 as i}from"./chunks/framework.DKFoVLdq.js";const u=JSON.parse('{"title":"BeeHome","description":"","frontmatter":{},"headers":[],"relativePath":"beehome/index.md","filePath":"beehome/index.md"}'),t={name:"beehome/index.md"},r=i("",12),n=[r];function d(l,s,h,c,m,_){return o(),a("div",null,n)}const R=e(t,[["render",d]]);export{u as __pageData,R as default};
