@@ -4,7 +4,7 @@ module.exports = {
 	description: "Manuales de productos SaaS HMV Soluciones",
 	base: "/manualeshmv/",
 	themeConfig: {
-		logo: "/assets/img/logo.png",
+		logo: "assets/img/logo.png",
 		siteTitle: false,
 		nav: [
 			{ text: "Inicio", link: "/" },
